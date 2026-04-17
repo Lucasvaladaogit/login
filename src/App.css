@@ -1,0 +1,23 @@
+#imagem{
+  width: 50%;
+  height: 100vh;
+  background: #000;
+  background-image: url('./assets/Pessoas.avif');
+  background-size: cover;
+  background-position-x: center;
+  float: left;
+}
+#login{
+  width: 50%;
+  height: 100vh;
+  background: rgb(255, 255, 255);
+  float: left;
+}
+#logo{
+  width: 30%;
+  height: auto;
+  float: left;
+  margin-left: 35%;
+  margin-top: 10%;
+
+}
